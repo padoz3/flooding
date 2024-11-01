@@ -2,6 +2,7 @@
 
 디렉토리 구조 1102 ver NEW
 
+```bash
 FloodEstimation
 ├─Dataset
 │  └─extracted_frame (추출된 프레임이 저장될 디렉토리)
@@ -17,8 +18,7 @@ FloodEstimation
 │      └─dongraegu_samhwanmension
 │          └─labels
 └─YOLOv6-main (yolo 메인 디렉토리
-
-
+```
 
 
 ### YOLOv6
