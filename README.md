@@ -28,3 +28,5 @@ YOLOv6 GITHUB [링크](https://github.com/meituan/YOLOv6)
 ### SAM
 SAM GITHUB [링크](https://github.com/facebookresearch/segment-anything)
 - ViT-H SAM 모델의 pre-trained weight 다운받기
+
+<img width="769" height="339" alt="image" src="https://github.com/user-attachments/assets/14e485b2-d3da-45f9-a47b-7da29fa04d39" />
